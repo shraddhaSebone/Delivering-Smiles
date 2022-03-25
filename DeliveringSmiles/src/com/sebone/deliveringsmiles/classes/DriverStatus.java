@@ -1,5 +1,9 @@
 package com.sebone.deliveringsmiles.classes;
-
+/**class name:-DriverAddress
+ * Objective:-This class store driver status and description.
+ * @author Shraddha Choudhary
+ * Date-24/03/2022
+ */
 public class DriverStatus {
 	private int driverId;
 	private boolean driverStatus;

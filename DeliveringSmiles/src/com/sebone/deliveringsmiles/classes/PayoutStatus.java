@@ -1,5 +1,9 @@
 package com.sebone.deliveringsmiles.classes;
-
+/**class name:-DriverAddress
+ * Objective:-This class contain all details of payoutstatus.
+ * @author Shraddha Choudhary
+ * Date-24/03/2022
+ */
 public class PayoutStatus {
 	private int payoutId;
 	private boolean payoutStatus;

@@ -1,5 +1,9 @@
 package com.sebone.deliveringsmiles.classes;
-
+/**class name:-DriverAddress
+ * Objective:-This class contain all the Login Details of driver.
+ * @author Shraddha Choudhary
+ * Date-24/03/2022
+ */
 public class LoginDetails {
 	private int loginId;
 	private String loginTime;

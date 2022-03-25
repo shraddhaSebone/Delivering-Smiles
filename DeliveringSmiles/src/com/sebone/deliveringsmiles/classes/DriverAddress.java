@@ -1,5 +1,9 @@
 package com.sebone.deliveringsmiles.classes;
-
+/**class name:-DriverAddress
+ * Objective:-This class contain all the details of Adress.
+ * @author Shraddha Choudhary
+ * Date-24/03/2022
+ */
 public class DriverAddress {
 	private String street;
 	private String city;

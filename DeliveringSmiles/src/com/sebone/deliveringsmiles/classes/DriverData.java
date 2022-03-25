@@ -1,5 +1,9 @@
 package com.sebone.deliveringsmiles.classes;
-
+/**class name:-DriverDate
+ * Objective:-This class contain all the information of driver.
+ * @author Shraddha Choudhary
+ * Date-24/03/2022
+ */
 import java.util.List;
 
 public class DriverData {
